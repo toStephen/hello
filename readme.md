@@ -12,7 +12,6 @@ We zoeken een **nieuwe collega** die mee kan praten over zaken zoals:
 - CSS preprocessors
 - Of je al dan niet puntkomma's moet plaatsen
 
-
 **vul zelf de [skills.json](https://github.com/devinehowest/hello/blob/master/skills.json) aan en doe een pull request**
 
 Je hebt ook wel wat te vertellen over de laatste nieuwe manier om een flatdesign schaduw te leggen en een hamburgermenu is voor jou niet iets uit de McDonald’s.
