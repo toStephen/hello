@@ -9,7 +9,7 @@ We zoeken een **nieuwe collega** die mee kan praten over zaken zoals
 - het JavaScript framework van de week
 - CSS preprocessors
 - of je al dan niet puntkomma's moet plaatsen
-- vul zelf de skills.json aan en doe een pull request
+- vul zelf de [skills.json](https://github.com/devinehowest/hello/blob/master/skills.json) aan en doe een pull request
 
 Je hebt ook wel wat te vertellen over de laatste nieuwe manier om een flatdesign schaduw te leggen en een hamburgermenu is voor jou niet iets uit de McDonald’s.
 
