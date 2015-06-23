@@ -19,3 +19,5 @@ Je wil hen laten schitteren in de digitale sterrenhemel want dan schitter jij oo
 Je krijgt de kans om je organisatorische talenten te ontplooien in verschillende uitdagingen van een alumni café tot een reis naar het nerd wonderland in Silicon Valley. 
 
 Devine is een prettig gestoord team dat niet rust tot elke site responsive is. 
+
+meer info [hier](http://www.howest.be/documenten/vacatures/2015048%20praktijk%20lector%20design%20en%20development.pdf)
