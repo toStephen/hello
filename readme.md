@@ -8,7 +8,6 @@ We zoeken een nieuwe collega die mee kan praten over zaken zoals
 - het JavaScript framework van de week
 - CSS preprocessors
 - of je al dan niet puntkomma's moet plaatsen
-
 - vul zelf de skills.json aan en doe een pull request
 
 Je hebt ook wel wat te vertellen over de laatste nieuwe manier om een flatdesign schaduw te leggen en een hamburgemenu is voor jou niet iets uit de Mc Donald’s.
