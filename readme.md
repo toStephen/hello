@@ -2,7 +2,7 @@
 function hello(){ 
   return "it is you we're looking for"; 
 }
-``
+```
 
 We zoeken een nieuwe collega die mee kan praten over zaken zoals
 - het JavaScript framework van de week
