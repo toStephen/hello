@@ -4,6 +4,8 @@ function hello(){
 }
 ```
 
+[http://www.devine.be/hello](http://www.devine.be/hello)
+
 We zoeken een **nieuwe collega** die mee kan praten over zaken zoals
 
 - het JavaScript framework van de week
