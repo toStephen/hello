@@ -6,11 +6,11 @@ function hello(){
 
 [http://www.devine.be/hello](http://www.devine.be/hello)
 
-We zoeken een **nieuwe collega** die mee kan praten over zaken zoals
+We zoeken een **nieuwe collega** die mee kan praten over zaken zoals:
 
-- het JavaScript framework van de week
+- Het JavaScript framework van de week
 - CSS preprocessors
-- of je al dan niet puntkomma's moet plaatsen
+- Of je al dan niet puntkomma's moet plaatsen
 
 
 **vul zelf de [skills.json](https://github.com/devinehowest/hello/blob/master/skills.json) aan en doe een pull request**
