@@ -1,12 +1,13 @@
+# [http://www.devine.be/hello](http://www.devine.be/hello)
+
+
 ```
 function hello(){ 
   return "it is you we're looking for"; 
 }
 ```
 
-[http://www.devine.be/hello](http://www.devine.be/hello)
-
-We zoeken een **nieuwe collega** die mee kan praten over zaken zoals:
+[We](http://www.devine.be) zoeken een **nieuwe collega** die mee kan praten over zaken zoals:
 
 - Het JavaScript framework van de week
 - CSS preprocessors
